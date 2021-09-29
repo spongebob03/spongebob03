@@ -5,7 +5,7 @@
 <!--
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ignite05)](https://solved.ac/ignite05)
 -->
-<h3 align="center"> ✅ Skills ✅ </h3>
+<h3 align="center"> 🛠 Skills 🛠 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
