@@ -20,7 +20,7 @@
 </p>
 <h3 align="center"> 🔗 Link 🔗 </h3>
 <p align="center">
-  <a href="https://spongebob03.github.io"><img src="https://img.shields.io/badge/-blog-brightgreen"></a>
+  <a href="https://www.bemore.dev"><img src="https://img.shields.io/badge/-blog-brightgreen"></a>
   <a href="https://velog.io/@spongebob03"><img src="https://img.shields.io/badge/%20Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@spongebob03"/></a>
   <a href="https://dev01.notion.site"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://dev01.notion.site"/></a>
 </p>
